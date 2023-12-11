@@ -6,9 +6,8 @@ To see the final result and play the game, click [here](https://editor.p5js.org/
 
 ## Used tools:
 
-* HTML
-* CSS
-* Flexbox
+* JavaScript (p5JS)
+* [Repositório externo](https://github.com/bmoren/p5.collide2D/)
 
 *(Alura is a Brazilian technology school and for acessibility reasons this code is in Portuguese)*
 
