@@ -1,4 +1,4 @@
-# Portfolio - Alura
+# Freeway
 
 Hi! In this project I developed a game based on the classic Freeway. It was developed in JavaScript using the p5JS editor. It was created during Alura's class *Programming logic: loops and arrays with JavaScript*.
 
